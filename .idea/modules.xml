@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CardioChek.iml" filepath="$PROJECT_DIR$/CardioChek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothsocket/bluetoothsocket.iml" filepath="$PROJECT_DIR$/bluetoothsocket/bluetoothsocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothwork/bluetoothwork.iml" filepath="$PROJECT_DIR$/bluetoothwork/bluetoothwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/md5save/md5save.iml" filepath="$PROJECT_DIR$/md5save/md5save.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchbluetoothdevice/searchbluetoothdevice.iml" filepath="$PROJECT_DIR$/searchbluetoothdevice/searchbluetoothdevice.iml" />
+    </modules>
+  </component>
+</project>

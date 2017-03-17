@@ -1,0 +1,1 @@
+include ':app', ':searchbluetoothdevice', ':bluetoothsocket', ':bluetoothwork', ':md5save'
